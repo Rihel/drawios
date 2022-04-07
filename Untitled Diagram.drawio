@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T05:51:53.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="YcbOgem7d-G8v7XMOqrV" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T05:52:55.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="AKTffsg1hJXitZYSiEit" version="17.4.0" type="github">
   <diagram id="vAMlp3YLuijeeZTll3_J" name="Page-1">
-    <mxGraphModel dx="1924" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="EWt5b8vn7UuF1jzuAeMk-53" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;mobileWidget: Component&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" parent="EWt5b8vn7UuF1jzuAeMk-46" vertex="1">
           <mxGeometry y="175" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aLEHj2pvLLhQeSvKvPRY-20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;supportBindVariable: String[]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="EWt5b8vn7UuF1jzuAeMk-46">
+        <mxCell id="aLEHj2pvLLhQeSvKvPRY-20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;supportBindVariableProps: String[]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="EWt5b8vn7UuF1jzuAeMk-46">
           <mxGeometry y="195" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aLEHj2pvLLhQeSvKvPRY-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;supportI18NProps: String[]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="EWt5b8vn7UuF1jzuAeMk-46">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EWt5b8vn7UuF1jzuAeMk-91" value="&amp;lt;&amp;lt;页面元数据&amp;gt;&amp;gt;&lt;br&gt;PageMetaData" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="870" width="260" height="235" as="geometry" />
+          <mxGeometry x="270" y="870" width="260" height="235" as="geometry" />
         </mxCell>
         <mxCell id="EWt5b8vn7UuF1jzuAeMk-92" value="id: String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EWt5b8vn7UuF1jzuAeMk-91" vertex="1">
           <mxGeometry y="55" width="260" height="20" as="geometry" />
