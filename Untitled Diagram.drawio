@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T06:44:53.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wXHN4Hc2zFdTLAcJQGZS" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T06:53:20.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="We-mpzLgyA8bMP4lwfUP" version="17.4.0" type="github">
   <diagram id="vAMlp3YLuijeeZTll3_J" name="Page-1">
-    <mxGraphModel dx="2185" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWt5b8vn7UuF1jzuAeMk-91" value="&amp;lt;&amp;lt;页面元数据&amp;gt;&amp;gt;&lt;br&gt;PageMetaData" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" parent="1" vertex="1">
+        <mxCell id="EWt5b8vn7UuF1jzuAeMk-91" value="&amp;lt;&amp;lt;页面元数据&amp;gt;&amp;gt;&lt;br&gt;PageMetaData" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="270" y="870" width="260" height="215" as="geometry" />
         </mxCell>
         <mxCell id="EWt5b8vn7UuF1jzuAeMk-92" value="id: String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EWt5b8vn7UuF1jzuAeMk-91" vertex="1">
@@ -409,7 +409,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLEHj2pvLLhQeSvKvPRY-32" value="&amp;lt;&amp;lt;应用元数据&amp;gt;&amp;gt;&lt;br&gt;AppMetaData" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+        <mxCell id="aLEHj2pvLLhQeSvKvPRY-32" value="&amp;lt;&amp;lt;应用元数据&amp;gt;&amp;gt;&lt;br&gt;AppMetaData" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="1280" width="260" height="155" as="geometry" />
         </mxCell>
         <mxCell id="aLEHj2pvLLhQeSvKvPRY-33" value="id: String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aLEHj2pvLLhQeSvKvPRY-32">
